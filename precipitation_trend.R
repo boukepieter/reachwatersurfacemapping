@@ -1,6 +1,6 @@
 setwd("c:/Users/REACH-IRQ-GIS/Documents/201911 WASH RS")
 Sys.setenv("plotly_username"="boukepieter")
-Sys.setenv("plotly_api_key"="CW59CmKZ0apinGCVdfkr")
+Sys.setenv("plotly_api_key"="???")
 library(ggplot2)
 library(plotly)
 library(rgdal)
