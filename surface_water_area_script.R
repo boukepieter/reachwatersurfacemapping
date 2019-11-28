@@ -19,5 +19,5 @@ gp <- ggplotly(p)
 
 
 Sys.setenv("plotly_username"="boukepieter")
-Sys.setenv("plotly_api_key"="CW59CmKZ0apinGCVdfkr")
+Sys.setenv("plotly_api_key"="???")
 api_create(gp, filename = "Iraq yearly surface water area by Governorate")
